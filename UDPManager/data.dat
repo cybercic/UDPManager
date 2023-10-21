@@ -1,0 +1,20 @@
+{
+	"ID": 0,
+	"NumeroSerial": "",
+	"Nome": "",
+	"Cliente": "",
+	"Patrimonio": "",
+	"Usuario": "",
+	"Departamento": "",
+	"Observacoes": "",
+	"IDAnydesk": "",
+	"IDTeamviewer": "",
+	"StatusAntivirus": "",
+	"StatusFirewall": "",
+	"IPPrivado": "",
+	"IPPublico": "",
+	"WindowsAtivado": false,
+	"BitLocker": "",
+	"VersaoAgente": "",
+	"UltimoScan": "1900-01-01"
+}
